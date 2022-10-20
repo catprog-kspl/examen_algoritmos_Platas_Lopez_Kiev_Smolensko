@@ -21,3 +21,5 @@ La principal diferencia que existe entre Factory Method y Abstract Factory es qu
 En el caso de Abstract Factory la literatura nos informa que este patron de diseño permite producir familias de objetos sin especificar sus clases concretas por ello un ejemplo es el de una aplicación que vende muebles que pasa cuando en un paquete que compra una familia no posee muebles distribuidos de forma equitativa es decir el paquete que compra solo posee dos sillas del mismo tipo o dos sofas del mismo tipo cuando la familia deseaba una variedad en su compra es decir que los muebles no se repitan.
 
 La solución para ello es utilizar este patron de diseño implementando una interfas para  producto haciendo que cada variante de producto siga a las interfaces para que asi sean diferenciadas pero sigan teniendo las caracteristicas del producto siendo variantes del mismo.
+
+Nota: para poder ejecutar los codigos se pueden ejecutar desde colab. 
